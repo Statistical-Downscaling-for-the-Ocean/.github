@@ -1,4 +1,12 @@
 # This is a general repository for the statistical downscaling for the ocean community of practice
+Welcome to the repository for the Statistical Downscaling for the Ocean Community of Practice.This is an open space to share tools and documents.
+
+***Focus***
+-Statistical (Data-Driven) approaches to downscaling
+
+**Hackathons**
+We are planning hackathons. This is the location for related codes.
+
 
 ### 2025 Hackathon information
 
