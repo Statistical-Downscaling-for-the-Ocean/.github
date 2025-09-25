@@ -14,6 +14,8 @@ We are planning hackathons. This is the location for related codes.
 - Raw Line P data (Ana's file): https://hpfx.collab.science.gc.ca/dfo/SD-Ocean/observations_LineP/LineP_for_Data_Synthesis_1990-2019_v1.csv
 - Interpolated 5 m Line P data (Not recommended for use as 'observation'): https://hpfx.collab.science.gc.ca/dfo/SD-Ocean
 
+### Model data exctraction:
+- Current location of code related to model data extraction: https://github.com/aholdsworth/SD-Ocean/
 <!--
 
 **Here are some ideas to get you started:**
