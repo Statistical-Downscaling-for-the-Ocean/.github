@@ -8,7 +8,7 @@ Welcome to the repository for the Statistical Downscaling for the Ocean Communit
 We are planning hackathons. This is the location for related codes.
 
 
-### 2025 Hackathon information
+### 2025 Line P Hackathon information
 
 #### Dataset locations:
 - Raw Line P data (Ana's file): https://hpfx.collab.science.gc.ca/dfo/SD-Ocean/observations_LineP/LineP_for_Data_Synthesis_1990-2019_v1.csv
