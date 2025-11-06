@@ -11,15 +11,19 @@ We are planning hackathons. This is the location for related codes.
 ### 2025 Line P Hackathon information
 
 #### Dataset locations:
-- Raw Line P data (Ana's file): https://hpfx.collab.science.gc.ca/dfo/SD-Ocean/observations_LineP/LineP_for_Data_Synthesis_1990-2019_v1.csv
-- Line P observations:
+- Line-P observations:
     - CTD data in 1m bins: https://hpfx.collab.science.gc.ca/dfo/SD-Ocean/Training/observations/binned/
+    - Compiled Bottle data at raw depths (Franco et al.)  https://hpfx.collab.science.gc.ca/dfo/SD-Ocean/observations_LineP/LineP_for_Data_Synthesis_1990-2019_v1.csv
+Line-P Model extractions:
+    - Northeastern Pacific Canadian Ocean Ecosystem model (NEP36-CanOE) extracted along a 1 degree band https://hpfx.collab.science.gc.ca/dfo/SD-Ocean/Models/NEP36-hindcast/
 
-### Model data exctraction:
+### Model data extraction:
 - Current location of code related to model data extraction: https://github.com/aholdsworth/SD-Ocean/
-<!--
-### reference documents ###
+
+### References ###
 “Probabilistic machine learning”: a book series by Kevin Murphy https://probml.github.io/pml-book/
+
+<!--
 
 **Here are some ideas to get you started:**
 
