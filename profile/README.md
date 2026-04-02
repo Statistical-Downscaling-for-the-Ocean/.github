@@ -5,7 +5,7 @@ Welcome to the repository for the Statistical Downscaling for the Ocean Communit
 -Statistical (Data-Driven) approaches to downscaling
 
 **Hackathons**
-We are planning hackathons. This is the location for related codes.
+We are planning hackathons. This is the location for related codes. Love me some hackathons.
 
 
 ### 2025 Line P Hackathon information
